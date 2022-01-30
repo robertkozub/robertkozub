@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Here's how to contact me!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am open to working on projects, let me know if I can be of service!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rxk200039@utdallas.edu](mailto:rxk200039@utdallas.edu)

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Here's how to contact me!
+Hello! My name is Bobby (Robert) and I am a Masters student at the University of Texas at Dallas. I am majoring in Geospatial Information Science and hope to soon switch to a career in Geospatial Engineering, Software Engineering, or Data Science.
 
 ### More Information
 

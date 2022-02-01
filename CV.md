@@ -21,12 +21,12 @@ Tasks consisted of creation of online maps in relation to development, platting,
 Responsibilities included reviewing construction plans with Accella Automation Software and using GIS to ensure proper compliance with city park restoration policies. Conducted in-field inspections, drafting formal reports, and represented the parks department in development meetings.
 
 # Education
+## University of Texas at Dallas 
 ### Master of Science - Geospatial Information Sciences
-### University of Texas at Dallas 
 ### In Progress
 
+## Texas A&M University 
 ### Bachelor of Science - Urban and Regional Planning
-### Texas A&M University 
 ### May 2018
 
 # Skills

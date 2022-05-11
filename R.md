@@ -4,6 +4,8 @@ title: R
 permalink: /R/
 ---
 
+[Knowledge Mining: Final Presentation - Ethereum Price Prediction](https://robertkozub.github.io/EtherumPricePredictionPres.html)
+
 [Knowledge Mining: Final Report - Ethereum Price Prediction](https://robertkozub.github.io/Knowledge-Mining_Report_Kozub.html)
 
 [Knowledge Mining: Appendix B - Linear Regression Model](https://robertkozub.github.io/LinearRegressionModelETH.html)

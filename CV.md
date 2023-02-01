@@ -24,7 +24,7 @@ permalink: /CV/
 
 > ## University of Texas at Dallas 
 > #### Master of Science, Geospatial Information Sciences
-> #### In Progress
+> #### December 2023
 
 > ## Texas A&M University 
 > #### Bachelor of Science, Urban and Regional Planning
@@ -43,4 +43,4 @@ permalink: /CV/
 - Survey123
 - R (R Studio)
 
-*Last Updated April 2022
+*Last Updated February 2023

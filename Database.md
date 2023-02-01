@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Database Management
+title: Information Management
 permalink: /Database/
 ---
 
-[Remote Sensing: Mapping Lava Flow](https://robertkozub.github.io/MappingLavaFlow.html)
+[Information Management: Assignment 1](https://github.com/robertkozub/robertkozub.github.io/blob/cdeb680460ce144ad66e6a4fcd7e2b59316e0b65/InfoManage_Assign1.html)
 
-[Remote Sensing: Change Detection Methods](https://robertkozub.github.io/ChangeDetectionforLavaFlow_Report_Kozub.html)
+

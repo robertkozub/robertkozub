@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Homepage
+title: 
 permalink: /Home/
 ---
 ![Welcome logo](https://robertkozub.github.io/welcome_header.png)

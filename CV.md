@@ -1,8 +1,9 @@
 ---
 layout: page
-title: CV
+
 permalink: /CV/
 ---
+![CV Logo](https://robertkozub.github.io/images/cv.png)
 
 # About Me
 > My name is Bobby and I am currently a GIS Specialist for the North Central Texas Council of Governments. I am also pursing my MS in Geospatial Information Science from the University of Texas at Dallas. In my studies so far, I have emphasized taking courses related to Programming, Data Science/Analysis, and Remote Sensing. I hope to pursue a career in Geospatial Engineering, Software Engineering, or Data Science in the near future. 

@@ -3,6 +3,7 @@ layout: page
 title: R
 permalink: /R/
 ---
+![R logo](https://robertkozub.github.io/images/r.png)
 
 [Knowledge Mining: Final Presentation - Ethereum Price Prediction](https://robertkozub.github.io/EtherumPricePredictionPres.html)
 

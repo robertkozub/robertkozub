@@ -1,8 +1,9 @@
 ---
 layout: page
-title: About
+
 permalink: /about/
 ---
+![About logo](https://robertkozub.github.io/images/about.png)
 
 Hello! My name is Bobby (Robert) and I am a Masters student at the University of Texas at Dallas. I am majoring in Geospatial Information Science and hope to soon switch to a career in Geospatial Engineering, Software Engineering, or Data Science.
 

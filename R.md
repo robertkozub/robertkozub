@@ -1,6 +1,6 @@
 ---
 layout: page
-title: R
+title: 
 permalink: /R/
 ---
 ![R logo](https://robertkozub.github.io/images/r.png)

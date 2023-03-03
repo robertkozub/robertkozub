@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Geospatial Analysis
+
 permalink: /Geospatial/
 ---
+![Geo logo](https://robertkozub.github.io/images/geospatial.png)
 
 [Remote Sensing: Mapping Lava Flow](https://robertkozub.github.io/MappingLavaFlow.html)
 

@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Information Management
+
 permalink: /Database/
 ---
+
+![Database logo](https://robertkozub.github.io/images/database.png)
 
 [Information Management: Assignment 1](https://robertkozub.github.io/InfoManage_Assign1.html)
 

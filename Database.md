@@ -10,3 +10,4 @@ permalink: /Database/
 
 [Information Management: Assignment 3](https://robertkozub.github.io/Assignment3_InfoManagement.html)
 
+[Information Management: Project Proposal](https://robertkozub.github.io/projectproposalpres_kozub.html)

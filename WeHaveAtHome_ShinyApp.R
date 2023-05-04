@@ -9,10 +9,10 @@ library(DT)
 
 con <- dbConnect(RPostgres::Postgres(),
                  dbname = "postgres",
-                 host = "athomedb.cem1vkxhxwsh.us-east-2.rds.amazonaws.com",
+                 host = "*************.us-east-2.rds.amazonaws.com",
                  port = "5432",
-                 user = "bobbyk",
-                 password = "bobbykdb")
+                 user = "*****",
+                 password = "*****")
 
 # Load Tables
 

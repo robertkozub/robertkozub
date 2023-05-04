@@ -14,7 +14,7 @@ permalink: /Database/
 
 [Information Management: Final Project Shiny Web App](https://kozub.shinyapps.io/WeHaveAtHome/)
 
-[Information Management: Final Project Shiny App Source Code](https://robertkozub.github.io/WeHaveAtHome_ShinyApp.R)
+[Information Management: Final Project Shiny App Source Code (R File Download)](https://robertkozub.github.io/WeHaveAtHome_ShinyApp.R)
 
 [Information Management: Final Presentation](https://robertkozub.github.io/InfoManagement_FinalPresentation.html)
 

@@ -19,3 +19,9 @@ permalink: /Database/
 [Information Management: Final Presentation](https://robertkozub.github.io/InfoManagement_FinalPresentation.html)
 
 [Information Management: Final Report](https://robertkozub.github.io/InfoManagement_FinalReport.html)
+
+[Information Management: Final Report: Appendix A (Data Formatting)](https://robertkozub.github.io/allrecipes_format.html)
+
+[Information Management: Final Report: Appendix B (Data Formatting)](https://robertkozub.github.io/item_format.html)
+
+[Information Management: Final Report: Appendix C (Data Formatting)](https://robertkozub.github.io/mcd_separate.html)

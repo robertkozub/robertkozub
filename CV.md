@@ -6,12 +6,12 @@ permalink: /CV/
 ![CV Logo](https://robertkozub.github.io/images/cv.png)
 
 # About Me
-> My name is Bobby and I am currently a GIS Specialist for the North Central Texas Council of Governments. I am also pursing my MS in Geospatial Information Science from the University of Texas at Dallas. In my studies so far, I have emphasized taking courses related to Programming, Data Science/Analysis, and Remote Sensing. I hope to pursue a career in Geospatial Engineering, Software Engineering, or Data Science in the near future. 
+> My name is Bobby and I am currently a GIS Specialist for the North Central Texas Council of Governments. I completed my Master of Science in Geospatial Information Science from the University of Texas at Dallas in December 2023.
 
 # Experience
 > ### GIS Specialist III, North Central Texas Council of Governments (NCT9-1-1)
 > ##### April 2022 - Present
->> Collect, maintain, and QA/QC GIS data to coalesce into the Public Safety Enterprise GIS environment. Position requires a close working relationship with the Regional Addressing Authority in several of the NCT9-1-1 counties. This position supports the on-going expansion and improvement of GIS services within NCT9-1-1.
+>> Collect, maintain, and QA/QC GIS data to coalesce into the Public Safety Enterprise GIS environment. Position requires a close working relationship with the Regional Addressing Authority in several of the NCT9-1-1 counties. This position supports the on-going expansion and improvement of GIS services within NCT9-1-1. Additional responsibilities include managing the Regional GeoData Quality Control and Remote Sensing/Imagery programs.
 
 > ### Transportation Planner II, North Central Texas Council of Governments
 > ##### May 2020 - April 2022
@@ -25,6 +25,18 @@ permalink: /CV/
 
 > ## University of Texas at Dallas 
 > #### Master of Science, Geospatial Information Sciences
+> #### December 2023
+
+> ## University of Texas at Dallas
+> #### Graduate Certificate, Remote Sensing
+> #### December 2023
+
+> ## University of Texas at Dallas 
+> #### Graduate Certificate, Geospatial Intelligence
+> #### December 2023
+
+> ## University of Texas at Dallas 
+> #### Graduate Certificate, GIS
 > #### December 2023
 
 > ## Texas A&M University 
@@ -44,4 +56,4 @@ permalink: /CV/
 - Survey123
 - R (R Studio)
 
-*Last Updated February 2023
+*Last Updated June 2024
